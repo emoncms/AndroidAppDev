@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmonCMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    
+	<!-- Set API Key Activity -->
+	<string name="enter_api_description">It looks like this is the first time running the app. Please copy and paste your Read Only API Key into the box below.</string>	
+	<string name="set_server_description">If you are using a custom server, enter the URL below. If left blank, emoncms.org will be used.</string>
+	<string name="enter_api_ok_button">Done</string>
+        
+</resources>
